@@ -45,7 +45,7 @@ const about = {
   imageLink: require("../editable-stuff/gustavo.jpeg"),
   imageSize: 375,
   message:
-    "My name is Gustavo Orocio. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Gustavo Orocio. I’m a graduate of the University of San Francisc, and my goal is to pursue this passion within the field of fintech. In my free time I like working on open source projects.",
   resume: require("../editable-stuff/resume.pdf")}
 
 // PROJECTS SECTION
@@ -116,7 +116,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time internship opportunities for the summer of 2025! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "gustavoorocio@gmail.com",
 };
 
