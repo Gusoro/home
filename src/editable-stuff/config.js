@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Gustavo",
   middleName: "",
   lastName: "Orocio",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about changing people's lives with technology. ",
   icons: [
     {
       image: "fa-github",
@@ -19,7 +19,7 @@ const mainBody = {
     
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/Gustavoorocio/",
+      url: "https://www.linkedin.com/in/gustavo-orocio-/",
     },
     
   ],
@@ -43,9 +43,9 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/gustavo.jpeg"),
-  imageSize: 375,
+  imageSize: 380,
   message:
-    "My name is Gustavo Orocio. I’m a graduate of the University of San Francisc, and my goal is to pursue this passion within the field of fintech. In my free time I like working on open source projects.",
+    "My name is Gustavo Orocio. I’m a graduate of the University of San Francisco, and my goal is to pursue this passion within the field of fintech while simultaneously taking on a new challenge in the world of cybersecurity and IT Management . In my free time I enjoy connecting with others and exploring new opportunites by using my skills, background, and experiences.",
   resume: require("../editable-stuff/resume.pdf")}
 
 // PROJECTS SECTION
@@ -90,22 +90,22 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
+    { name: "Python", value: 70 },
     { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "Data Structures", value: 70 },
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
+    { name: "JavaScript", value: 70 },
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "C#", value: 60 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 85 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
+    { name: "Time Management", value: 90 },
     { name: "Organization", value: 70 },
     { name: "Creativity", value: 90 },
   ],
