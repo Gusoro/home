@@ -43,7 +43,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/gustavo.jpeg"),
-  imageSize: 380,
+  imageSize: 480,
   message:
     "My name is Gustavo Orocio. I’m a graduate of the University of San Francisco, and my goal is to pursue this passion within the field of fintech while simultaneously taking on a new challenge in the world of cybersecurity and IT Management . In my free time I enjoy connecting with others and exploring new opportunites by using my skills, background, and experiences.",
   resume: require("../editable-stuff/resume.pdf")}
@@ -90,14 +90,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 70 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 70 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 70 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 60 },
+    { name: "Python", value: 50 },
+    { name: "HTML/CSS", value: 50 },
+    { name: "JavaScript", value: 40 },
+    { name: "React", value: 45 },
+    { name: "Managing User Access", value: 30 },
+    { name: "Networks Security", value: 45 },
+    { name: "Host Security", value: 55 },
+    { name: "Threat Identification", value: 35 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -125,12 +125,12 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Student Athlete',// Here Add Company Name
       companylogo: require('../assets/img/dell.png'),
       date: 'June 2018 – Present',
     },
     {
-      role: 'Front-End Developer',
+      role: 'Consultant',
       companylogo: require('../assets/img/boeing.png'),
       date: 'May 2017 – May 2018',
     },
