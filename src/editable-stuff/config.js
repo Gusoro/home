@@ -43,7 +43,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/gustavo.jpeg"),
-  imageSize: 480,
+  imageSize: 450,
   message:
     "My name is Gustavo Orocio. I’m a graduate of the University of San Francisco with a Master of Science in Entrepreneurship & Innovation, and my goal is to pursue this passion within the field of fintech while simultaneously taking on a new challenge in the world of cybersecurity and IT management. In my free time, I enjoy connecting with others and exploring new opportunities by using my skills, background, and experiences.",
   resume: require("../editable-stuff/resume.pdf")}
@@ -81,7 +81,7 @@ const leadership = {
   ],
   imageSize: {
     width:"615",
-    height:"490"
+    height:"450"
   }
 };
 
