@@ -81,7 +81,7 @@ const leadership = {
   ],
   imageSize: {
     width:"615",
-    height:"450"
+    height:"490"
   }
 };
 
